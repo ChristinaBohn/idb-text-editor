@@ -23,4 +23,4 @@ GitHub Repo:
     * https://github.com/ChristinaBohn/idb-text-editor
 
 Heroku:
-    * 
+    * https://git.heroku.com/idb-text-editor.git
